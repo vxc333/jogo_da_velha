@@ -7,7 +7,7 @@ Este é um jogo da velha simples criado com HTML, CSS e JavaScript. Você pode j
 3. O jogador atual é indicado como "X" ou "Círculo".
 4. O jogo anunciará automaticamente o vencedor ou um empate.
 ## Recursos
-Interface simples e amigável.
-Verificação automática de vencedor e empate.
-Alternância suave entre os turnos de "X" e "Círculo".
-Divirta-se jogando e desafiando seus amigos para uma partida do clássico jogo da velha!
+- Interface simples e amigável.
+- Verificação automática de vencedor e empate.
+- Alternância suave entre os turnos de "X" e "Círculo".
+- Divirta-se jogando e desafiando seus amigos para uma partida do clássico jogo da velha!
